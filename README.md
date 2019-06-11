@@ -1,7 +1,7 @@
 # TicTacToe
-Sa: 00-> 
+Sa: 00-> O
 Su: 11-> 
-Sa: 22-> 
+Sa: 22-> O
 Su: 21-> 
 Sa : 01-> 
 Su : 02-> 
