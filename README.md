@@ -1,10 +1,10 @@
 # TicTacToe
-Sa: 00-> O
-Su: 11-> X
-Sa: 22-> X
-Su: 21-> X
-Sa : 01-> O
-Su : 02-> X
-Sa : 20-> X
-Su : 10-> O 
-Sa : 12-> O
+Sa: 00-> 
+Su: 11-> 
+Sa: 22-> 
+Su: 21-> 
+Sa : 01-> 
+Su : 02-> 
+Sa : 20-> 
+Su : 10-> 
+Sa : 12-> 
