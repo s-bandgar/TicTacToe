@@ -5,4 +5,5 @@ Sa: 22-> O
 Su: 21->X
 Sa : 01-> O
 Su : 02-> X
-frfr
+Sa : 20-> O
+Su : 10-> X
