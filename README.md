@@ -1,5 +1,5 @@
 # TicTacToe
-Sa: 00-> 
+Sa: 00-> O
 Su: 11-> 
 Sa: 22-> 
 Su: 21-> 
